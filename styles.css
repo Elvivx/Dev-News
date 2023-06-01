@@ -1,0 +1,35 @@
+body{
+    margin: 20px; 
+    font-family: 'Times New Roman', Times, serif;
+    min-width: 1200px;
+}
+.main{
+    display: flex;
+}
+.info-text{
+    padding: 19px 10px 0 10px;
+}
+.img-top-text{
+    color: #565959;
+    font-weight: bold;
+    font-size: 12px;
+}
+.logo-img{
+    width: 500px;
+    padding: 0 40px 0 0;
+}
+.rate-img{
+    width: 120px;
+}
+a{
+    color: #007185;
+}
+u{
+    font-size: 15px;
+    font-weight: bold;
+}
+footer{
+    text-align: center;
+    margin-top: 20px;
+    
+}
